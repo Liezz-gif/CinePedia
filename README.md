@@ -2,7 +2,6 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 **CinePedia** adalah aplikasi katalog film modern berbasis mobile yang dikembangkan menggunakan framework **Flutter** dan bahasa pemrograman **Dart**. Aplikasi ini dibangun untuk memenuhi tugas **UTS Praktikum Pemrograman Mobile**, menyajikan antarmuka bertema bioskop gelap (*Dark Cinema Theme*) dengan aksen emas (*amber*), navigasi yang intuitif, serta manajemen penyimpanan lokal yang persisten.
 
@@ -116,7 +115,7 @@ lib/
 
 ## 👨‍💻 Pengembang
 
-- **Nama:** *(Isi Nama Anda)*
-- **NIM:** *(Isi NIM Anda)*
-- **Program Studi:** *(Isi Program Studi)*
+- **Nama:** *(Ahmad Kholishun Ni'am)*
+- **NIM:** *(240605110208)*
+- **Program Studi:** *(Teknik Informatika)*
 - **Mata Kuliah:** Praktikum Pemrograman Mobile (UTS)
