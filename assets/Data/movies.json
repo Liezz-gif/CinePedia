@@ -1,0 +1,164 @@
+[
+  {
+    "id": "1",
+    "title": "Oppenheimer",
+    "genre": "Drama",
+    "rating": "8.3/10",
+    "duration": "3j 00m",
+    "description": "Di tengah gejolak Perang Dunia II yang membara, J. Robert Oppenheimer, seorang fisikawan teoritis jenius yang penuh dilema moral, ditunjuk memimpin proyek rahasia tingkat tinggi Amerika Serikat bernama Proyek Manhattan di Los Alamos. Bersama tim ilmuwan terbaik dunia, Oppenheimer berpacu dengan waktu untuk menciptakan senjata paling mematikan yang pernah ada dalam sejarah manusia: bom atom.\n\nKetika ujicoba Trinity berhasil mengguncang gurun New Mexico, dunia memasuki era nuklir yang tak terbalikkan. Namun, kemenangan ilmiah tersebut membawakan bayang-bayang kehancuran massa dan penderitaan batin bagi Oppenheimer. Usai perang berakhir, ia tidak hanya dihadapkan pada tuduhan pengkhianatan dalam intrik politik Perang Dingin, tetapi juga beban moral mendalam atas ciptaannya yang berpotensi memusnahkan peradaban manusia.",
+    "imageUrl": "assets/images/oppenheimer.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "genre": "Action",
+    "rating": "8.6/10",
+    "duration": "2j 20m",
+    "description": "Setelah berhasil menyelamatkan dunianya, Miles Morales kembali menjalani kehidupan ganda sebagai siswa biasa dan pahlawan bertopeng Spider-Man di Brooklyn. Suatu hari, Miles didekati kembali oleh Gwen Stacy dan dibawa melintasi Multiverse yang tak terbatas.\n\nDi sana, ia bertemu dengan Spider-Society, sebuah aliansi elit pahlawan laba-laba dari berbagai dimensi yang dipimpin oleh Miguel O'Hara (Spider-Man 2099) yang bertugas menjaga stabilitas takdir di setiap alam semesta. Konflik besar meletus ketika Miles menemukan kenyataan pahit bahwa untuk menyelamatkan alam semesta, sebuah tragedi tak terelakkan harus menimpa orang terdekatnya. Menolak takdir yang dipaksakan, Miles bertarung sendirian menentang ratusan Spider-People lainnya demi menyelamatkan sang ayah, membuktikan bahwa seorang pahlawan sejati menentukan jalurnya sendiri.",
+    "imageUrl": "assets/images/spiderman.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Dune: Part Two",
+    "genre": "Sci-Fi",
+    "rating": "8.8/10",
+    "duration": "2j 46m",
+    "description": "Di planet padang pasir Arrakis yang kejam dan kaya akan rempah ajaib Melange, Paul Atreides melanjutkan perjalanan takdirnya yang penuh darah. Bersama ibunya, Lady Jessica, Paul bergabung dengan kaum pahlawan padang pasir Fremen dan menjalin hubungan erat dengan Chani. Paul belajar bertahan hidup di lingkungan ekstrem dan membuktikan dirinya sebagai sosok penunggang cacing pasir raksasa.\n\nNamun, saat dendamnya terhadap klan Harkonnen dan Kaisar Shaddam IV membara, benturan antara ramalan messiah 'Lisan al-Gaib' dan hasrat politik mengancam untuk memicu perang suci (jihad) yang akan menyebar ke seluruh galaksi. Paul harus memilih antara cinta sejati pada Chani atau menerima takdir tragis yang akan mengorbankan miliaran nyawa demi tahta kekaisaran.",
+    "imageUrl": "assets/images/dune.jpg"
+  },
+  {
+    "id": "4",
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "rating": "9.0/10",
+    "duration": "2j 32m",
+    "description": "Kota Gotham berada di ambang keteraturan berkat kerja sama Batman, Letnan James Gordon, dan Jaksa Wilayah yang karismatik, Harvey Dent. Namun, kedamaian semu itu hancur berkat kemunculan sosok kriminal misterius dan anarkis bernama Joker.\n\nTanpa motif uang atau kekuasaan, Joker hanya ingin membuktikan bahwa manusia paling moral pun bisa berubah menjadi monster ketika dihadapkan pada kekacauan mutlak. Dalam permainan psikologis yang manipulatif dan sadis, Joker memaksa Batman melampaui batasan moralnya dan mendorong Harvey Dent ke jurang kegelapan sebagai 'Two-Face'. Demi menyelamatkan harapan warga Gotham, Batman bersedia mengorbankan reputasinya sendiri, menjadi buronan kegelapan yang dibenci kota yang ia lindungi.",
+    "imageUrl": "assets/images/dark_knight.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Interstellar",
+    "genre": "Sci-Fi",
+    "rating": "8.7/10",
+    "duration": "2j 49m",
+    "description": "Di masa depan yang suram, Bumi diambang kepunahan akibat wabah tanaman dan krisis pangan global. Joseph Cooper, seorang mantan pilot NASA dan ayah tunggal, menemukan rahasia gravitasi di kamar putrinya, Murph, yang menuntunnya ke fasilitas rahasia NASA.\n\nDiberikan misi terakhir umat manusia, Cooper memimpin ekspedisi luar angkasa melintasi lubang cacing (wormhole) misterius dekat Planet Saturnus untuk mencari planet baru yang layak huni di galaksi lain. Melewati planet dengan ombak raksasa, dilatasi waktu di dekat lubang hitam supermasif Gargantua, serta pengkhianatan rekan sesama penjelajah, Cooper harus mengarungi dimensi kelima untuk mengirimkan sinyal gravitasi penyelamat kepada Murph melintasi ruang dan waktu.",
+    "imageUrl": "assets/images/interstellar.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Parasite",
+    "genre": "Drama",
+    "rating": "8.5/10",
+    "duration": "2j 12m",
+    "description": "Keluarga Kim—sang ayah Ki-taek, ibu Chung-sook, serta dua anak mereka Ki-woo dan Ki-jung—hidup dalam kemiskinan ekstrem di sebuah rumah semi-basement yang sempit dan lembap di Seoul. Kehidupan mereka berubah drastis ketika Ki-woo mendapatkan kesempatan menjadi guru privat bahasa Inggris untuk putri dari keluarga Park yang sangat kaya raya.\n\nMelalui tipu daya yang cerdik dan manipulasi bertahap, seluruh anggota keluarga Kim berhasil menyusup bekerja di rumah mewah keluarga Park tanpa menyadari hubungan darah mereka. Namun, permainan parasitik ini berubah menjadi guncangan berdarah ketika sebuah rahasia kelam di bunker bawah tanah rumah mewah tersebut terbongkar pada suatu malam berhujan lebat.",
+    "imageUrl": "assets/images/parasite.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Avengers: Endgame",
+    "genre": "Action",
+    "rating": "8.4/10",
+    "duration": "3j 02m",
+    "description": "Lima tahun setelah Thanos memusnahkan separuh populasi alam semesta dengan jentikan jarum Semesta, para pahlawan yang tersisa hidup dalam duka dan kehampaan. Kemunculan kembali Scott Lang (Ant-Man) dari Alam Kuantum membawa sekercah harapan baru: kemungkinan melakukan perjalanan waktu untuk mengumpulkan kembali enam Batu Keabadian sebelum Thanos menggunakannya.\n\nDipimpin oleh Steve Rogers dan Tony Stark, para Avengers bersatu kembali dalam misi pemungkas melintasi berbagai titik waktu masa lalu. Pertempuran klimaks yang megah pecah ketika Thanos masa lalu mengetahui rencana mereka, menuntut pengorbanan tertinggi demi mengembalikan kehidupan seluruh alam semesta.",
+    "imageUrl": "assets/images/avengers.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "rating": "8.8/10",
+    "duration": "2j 28m",
+    "description": "Dom Cobb adalah seorang pencuri ulung yang memiliki kemampuan langka untuk menyusup ke dalam alam mimpi seseorang dan mencuri rahasia paling berharga saat target sedang tidur. Namun, kemampuan ini membuatnya menjadi buronan internasional yang kehilangan hak untuk bertemu anak-anaknya.\n\nSebuah kesempatan emas datang dari pengusaha kaya Saito: alih-alih mencuri (extraction), Cobb ditugaskan melakukan hal sebaliknya yang hampir mustahil, yaitu menanamkan suatu ide ke dalam pikiran seorang pewaris perusahaan (inception). Bersama tim spesialis pemimpi, Cobb menyelami labirin mimpi tiga tingkat yang sangat berbahaya, di mana batas antara ilusi dan kenyataan mengabur akibat trauma masa lalu dengan mendiang istrinya, Mal.",
+    "imageUrl": "assets/images/inception.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Joker",
+    "genre": "Drama",
+    "rating": "8.4/10",
+    "duration": "2j 02m",
+    "description": "Di kota Gotham awal 1980-an yang kumuh dan penuh ketimpangan sosial, Arthur Fleck adalah seorang pria kesepian yang bekerja sebagai badut sewaan sambil merawat ibunya yang sakit. Arthur mengidap gangguan mental unik yang membuatnya tertawa tak terkendali saat merasa cemas atau tertekan.\n\nDiabaikan oleh masyarakat, disiksa secara fisik di jalanan, dan dipotong akses obat-obatannya oleh pemerintah lokal, Arthur secara perlahan kehilangan pijakan kognitifnya. Sebuah insiden penembakan di kereta bawah tanah menjadi titik balik dramatis saat tindakan kekerasan Arthur justru menginspirasi gerakan protes anti-elit di seluruh kota Gotham, melahirkan sesosok ikon kriminal baru yang ikonik: Joker.",
+    "imageUrl": "assets/images/joker.jpg"
+  },
+  {
+    "id": "10",
+    "title": "The Conjuring",
+    "genre": "Horror",
+    "rating": "7.5/10",
+    "duration": "1j 52m",
+    "description": "Pada tahun 1971, keluarga Perron bersama lima putri mereka pindah ke sebuah rumah pertanian tua di Harrisville, Rhode Island. Tak lama setelah menempati rumah tersebut, kejadian-kejadian mistis yang mengerikan mulai mengintai kehidupan mereka setiap malam, mulai dari jam yang berhenti pukul 03.07 pagi, bau busuk menyengat, hingga teror fisik dari entitas tak kasat mata.\n\nDalam keputusasaan, mereka meminta bantuan pasangan penyelidik supranormal terkenal, Ed dan Lorraine Warren. Saat melakukan investigasi, Ed dan Lorraine menemukan kisah kelam masa lalu tanah tersebut yang dikutuk oleh seorang penyihir iblis bernama Bathsheba. Misi pengusiran setan (exorcism) yang mencekam pun digelar demi menyelamatkan nyawa ibu dan anak-anak Perron dari kegelapan abadi.",
+    "imageUrl": "assets/images/conjuring.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Avatar: The Way of Water",
+    "genre": "Sci-Fi",
+    "rating": "7.6/10",
+    "duration": "3j 12m",
+    "description": "Lebih dari satu dekade setelah peristiwa pertempuran besar di hutan raksasa Pandora, Jake Sully kini hidup bahagia sebagai Kepala Suku Omatikaya bersama istrinya, Neytiri, dan anak-anak mereka. Namun, kedamaian hidup keluarga Sully terancam ketika 'Orang Langit' (manusia) kembali menginvasi Pandora dengan armada militer yang jauh lebih canggih, dipimpin oleh klon avatar Kolonel Miles Quaritch yang menuntut balas dendam.\n\nDemi melindungi sukunya dari bahaya perang, Jake mengambil keputusan sulit untuk memboyong keluarganya mengungsi ke wilayah kepulauan Arus Laut yang dihuni oleh klan Metkayina. Di sana, keluarga Sully harus beradaptasi dengan budaya maritim baru, belajar mengendarai makhluk air ajaib, dan bertempur di atas samudra yang megah demi mempertahankan rumah baru mereka dari kehancuran teknologi manusia.",
+    "imageUrl": "assets/images/avatar.jpg"
+  },
+  {
+    "id": "12",
+    "title": "Titanic",
+    "genre": "Drama",
+    "rating": "7.9/10",
+    "duration": "3j 14m",
+    "description": "Pada bulan April 1912, kapal pesiar termewah dan diklaim 'tak dapat tenggelam' di dunia, RMS Titanic, memulai pelayaran perdananya melintasi Samudra Atlantik menuju New York. Di atas kapal tersebut, takdir mempertemukan Rose DeWitt Bukater, seorang wanita muda bangsawan terpandang yang merasa terkekang oleh pertunangan perjodohan yang dipaksakan, dan Jack Dawson, seorang seniman jalanan miskin bertalenta yang memenangkan tiket Titanic lewat permainan kartu.\n\nMeskipun ditentang oleh ibunya dan tunangannya yang arogan, Rose menemukan kebebasan dan cinta sejati di dalam pelukan Jack. Namun, romansa indah di atas samudra megah tersebut berubah menjadi tragedi pertaruhan nyawa yang memilukan ketika Titanic menghantam gunung es raksasa di tengah kegelapan malam yang dingin.",
+    "imageUrl": "assets/images/titanic.jpg"
+  },
+  {
+    "id": "13",
+    "title": "Spirited Away",
+    "genre": "Animation",
+    "rating": "8.6/10",
+    "duration": "2j 05m",
+    "description": "Chihiro Ogino, seorang anak perempuan berusia 10 tahun yang pemalu dan manja, sedang dalam perjalanan pindah rumah bersama kedua orang tuanya. Saat tersesat di sebuah jalan terpencil, keluarga Chihiro menemukan sebuah terowongan tua yang menuntun mereka ke sebuah taman hiburan tak berpenghuni. Tanpa menyadari ancaman misterius, orang tua Chihiro dengan serakah menyantap makanan gaib di sebuah kedai kosong hingga secara ajaib berubah menjadi babi.\n\nTerjebak di alam roh (Kami) yang ajaib dan berbahaya saat malam tiba, Chihiro diselamatkan oleh seorang pemuda misterius bernama Haku. Demi menyelamatkan orang tuanya dan kembali ke dunia manusia, Chihiro harus bekerja keras di rumah pemandian roh (Onsen) milik penyihir jahat Yubaba, belajar menemukan keberanian, kemandirian, dan ketulusan sejati.",
+    "imageUrl": "assets/images/spirited_away.jpg"
+  },
+  {
+    "id": "14",
+    "title": "The Matrix",
+    "genre": "Sci-Fi",
+    "rating": "8.7/10",
+    "duration": "2j 16m",
+    "description": "Thomas Anderson, seorang peretas komputer berbakat yang dikenal dengan nama 'Neo' di dunia maya, selalu merasa ada yang salah dengan realitas tempat ia hidup. Pencariannya akan kebenaran membawanya bertemu dengan Trinity dan Morpheus, seorang pahlawan pemberontak karismatik yang menawarkan pilihan antara dua pil: pil biru untuk tetap dalam ilusi, atau pil merah untuk mengetahui kebenaran sejati.\n\nSetelah memilih pil merah, Neo terbangun dari dunia mimpi dan mendapati kenyataan mengerikan bahwa bumi masa depan telah dikuasai oleh kecerdasan buatan (Artificial Intelligence), dan seluruh umat manusia dijadikan sumber energi biologis di dalam simulasi komputer bernama 'The Matrix'. Neo diyakini sebagai sosok 'The One' yang ditakdirkan memimpin perlawanan manusia membebaskan peradaban dari cengkeraman mesin.",
+    "imageUrl": "assets/images/matrix.jpg"
+  },
+  {
+    "id": "15",
+    "title": "A Quiet Place",
+    "genre": "Horror",
+    "rating": "7.5/10",
+    "duration": "1j 30m",
+    "description": "Di dunia pasca-apokaliptik yang hancur, sebagian besar populasi bumi telah dimusnahkan oleh spesies alien misterius yang tidak bermata namun memiliki pendengaran super sensitif dan kecepatan mematikan. Keluarga Abbott—sang ayah Lee, ibu Evelyn yang sedang hamil tua, serta anak-anak mereka Regan dan Marcus—bertahan hidup di sebuah rumah pertanian terisolasi dengan menerapkan aturan ketat: tanpa suara sama sekali.\n\nMereka berkomunikasi menggunakan bahasa isyarat, berjalan tanpa alas kaki di atas pasir, dan menghindari setiap benda yang berpotensi memicu bunyi. Ketegangan memuncak ketika masa persalinan Evelyn tiba di saat Lee dan anak-anaknya terpisah, memaksa mereka bertaruh nyawa di tengah kesunyian yang mencekam.",
+    "imageUrl": "assets/images/quiet_place.jpg"
+  },
+  {
+    "id": "16",
+    "title": "Gladiator",
+    "genre": "Action",
+    "rating": "8.5/10",
+    "duration": "2j 35m",
+    "description": "Jenderal Maximus Decimus Meridius adalah panglima perang terhebat Kekaisaran Romawi yang berhasil memimpin legiun kekaisaran menaklukkan wilayah Germania. Kaisar Marcus Aurelius yang sudah tua berencana menyerahkan tahta Romawi kepada Maximus ketimbang putra kandungnya yang licik dan haus kekuasaan, Commodus.\n\nMurka atas keputusan tersebut, Commodus membunuh ayahnya sendiri, merebut tahta secara ilegal, serta memerintahkan pembantaian terhadap anak dan istri Maximus. Selamat dari dieksekusi namun kehilangan segala yang dicintainya, Maximus ditangkap dan dijual sebagai budak petarung arena (gladiator). Dipicu dendam membara, Maximus bertarung dari arena ke arena hingga mencapai Colosseum di Roma, menjadi pahlawan rakyat yang menantang kediktatoran kaisar Commodus.",
+    "imageUrl": "assets/images/gladiator.jpg"
+  },
+  {
+    "id": "17",
+    "title": "Your Name (Kimi no Na wa)",
+    "genre": "Animation",
+    "rating": "8.4/10",
+    "duration": "1j 46m",
+    "description": "Mitsuha Miyamizu adalah seorang siswi SMA yang tinggal di desa pegunungan Itomori yang tenang dan merindukan kehidupan kota besar Tokyo. Di sisi lain, Taki Tachibana adalah seorang siswa SMA di Tokyo yang sibuk bekerja paruh waktu di restoran Italia. Suatu hari, fenomena ajaib terjadi di mana pikiran dan tubuh Mitsuha dan Taki bertukar tempat secara misterius setiap kali mereka tertidur.\n\nMeskipun awalnya canggung dan kacau, mereka saling meninggalkan catatan harian di ponsel untuk membantu kehidupan satu sama lain hingga ikatan batin yang mendalam tumbuh di antara mereka. Namun, fenomena pertukaran tubuh tersebut mendadak terhenti ketika sebuah komet kuno melintas di langit Jepang, menuntun Taki pada kenyataan tragis bahwa desa Itomori telah hancur oleh pecahan komet tiga tahun lalu.",
+    "imageUrl": "assets/images/your_name.jpg"
+  },
+  {
+    "id": "18",
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "rating": "9.3/10",
+    "duration": "2j 22m",
+    "description": "Andy Dufresne, seorang bankir muda yang sukses dan berpendidikan tinggi, dijatuhi hukuman penjara seumur hidup atas tuduhan pembunuhan istri dan kekasih gelapnya—kejahatan yang bersikersi tidak pernah ia lakukan. Andy dikirim ke Penjara Shawshank yang sangat keras dan korup di bawah kepemimpinan Sipir Norton yang sadis.\n\nDi sana, Andy menjalin persahabatan erat dengan Ellis 'Red' Redding, seorang narapidana tua penyedia barang selundupan. Selama lebih dari dua dekade berada di dalam jeruji besi, Andy menggunakan kecerdasan finansialnya untuk membimbing para penjaga penjara, mengelola perpustakaan, serta secara perlahan merencanakan strategi pembebasan yang tak terbayangkan demi membuktikan kekuatan harapan dan martabat manusia.",
+    "imageUrl": "assets/images/shawshank.jpg"
+  }
+]
